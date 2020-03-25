@@ -1,0 +1,12 @@
+# Port to run on
+server:
+  port: ${port:8081}
+
+# Our log file path and name
+logging:
+  file: logs/service.log
+
+nodeEndpoint: https:mainnet.infura.io/v3/b8a7ec5d22c14bd6b2ffca2352395ed4
+
+
+
